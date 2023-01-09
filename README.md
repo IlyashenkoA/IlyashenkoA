@@ -7,7 +7,7 @@ Junior Frontend Developer
 I'm a Junior Frontend developer, with 1 year of professional experience in web development. I have been learning to code for about 5 years, starting with backend development in Java and C#, as well as how to work with databases - MySQL. Subsequently, I switched to web development and began to work more with the front end.
 
 * 🌍  I'm based in Latvia
-* 🖥️  See my portfolio at [Portfolio](http://ilyashenkoa.vercel.app/)
+* 🖥️  See my portfolio at [https://ilyashenkoa.vercel.app/](http://ilyashenkoa.vercel.app/)
 * ✉️  You can contact me at [ilyashenko.arthur@gmail.com](mailto:ilyashenko.arthur@gmail.com)
 
 ### Skills
