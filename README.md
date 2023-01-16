@@ -55,3 +55,5 @@ I'm a Junior Frontend developer, with 1 year of professional experience in web d
 ![](https://github-readme-stats.vercel.app/api?username=IlyashenkoA&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IlyashenkoA&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyashenkoA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=IlyashenkoA&icon=0&color=0)](https://visitcount.itsvg.in)
