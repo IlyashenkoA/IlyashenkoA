@@ -49,7 +49,7 @@ I'm a Junior Frontend developer, with 1 year of professional experience in web d
 
 <li>
 <a href="mailto:ilyashenko.arthur@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  	ilyashenko.arthur-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:ilyashenko.arthur-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
