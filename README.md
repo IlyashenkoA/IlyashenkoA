@@ -30,30 +30,22 @@ I'm a Junior Frontend developer, with 1 year of professional experience in web d
 
 <div align='left'>
 
-<ul style="list-style: none; padding: 0">
-<li>
 <a href="https://www.linkedin.com/in/arthur-ilyashenko-a9ba451aa/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Arthur Ilyashenko-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</li>
 
 <br>
 
-<li>
 <a href="https://github.com/IlyashenkoA" target="_blank">
 <img src="https://img.shields.io/badge/github: IlyashenkoA-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
-</li>
 
 <br>
 
-<li>
 <a href="mailto:ilyashenko.arthur@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:ilyashenko.arthur-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-</li>
-	
-</ul>
+
 </div>
 
 <br>
