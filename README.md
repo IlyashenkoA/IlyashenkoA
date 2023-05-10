@@ -9,7 +9,7 @@
 <div>
 <img align="right" top="500" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-I'm a Junior Frontend developer, with 1 year of professional experience in web development. I have been learning to code for about 5 years, starting with backend development in Java and C#, as well as how to work with databases - MySQL. Subsequently, I switched to web development and began to work more with the front end.
+I'm a Junior Frontend developer, with 1 year of professional experience in web development. I have been learning to code for about 3 years, starting with backend development in Java and C#, as well as how to work with databases - MySQL. Subsequently, I switched to web development and began to work more with the front end.
 
 - 🌍  I'm based in Latvia
 - 🔭 I'm currently learning Web Development by Self
