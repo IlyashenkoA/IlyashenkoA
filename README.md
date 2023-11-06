@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Arthur Ilyashenko <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h2 align="center">Junior Web Developer</h2>
+<h2 align="center">Junior Full-Stack Developer</h2>
 
 <br>
 
@@ -9,7 +9,7 @@
 <div>
 <img align="right" top="500" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-I am a Junior Web Developer, focused on delivering intuitive and user-friendly websites. My experience includes actively practicing and honing my skills through a variety of projects. These projects primarily revolve around frontend development, with some encompassing fullstack aspects. In addition to my project-based expertise, I possess 10 months of professional programming experience as a Web Developer. I am adept at working with backend languages and applying Object-Oriented Programming principles. My skill set extends to debugging issues, creating comprehensive functionality, and enhancing frontend features. My drive for growth and innovation fuels my passion for creating exceptional web experiences.
+I am a Junior Full-Stack Developer, focused on delivering intuitive and user-friendly websites. My experience includes actively practicing and honing my skills through a variety of projects. These projects primarily revolve around front-end development, with some encompassing full-stack aspects. In addition to my project-based expertise, I possess 10 months of professional programming experience as a Web Developer. I am adept at working with backend languages and applying Object-Oriented Programming principles. My skill set extends to debugging issues, creating comprehensive functionality, and enhancing front-end features. My drive for growth and innovation fuels my passion for creating exceptional web experiences.
 
 - 🌍  I'm based in Latvia
 - 🔭 I'm currently learning Web Development by Self
