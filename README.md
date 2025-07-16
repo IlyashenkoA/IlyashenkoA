@@ -9,7 +9,7 @@
 <div>
 <img align="right" top="500" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-I am a Junior Full-Stack Developer, focused on delivering intuitive and user-friendly websites. My experience includes actively practicing and honing my skills through a variety of projects. These projects primarily revolve around front-end development, with some encompassing full-stack aspects. In addition to my project-based expertise, I possess 10 months of professional programming experience as a Web Developer. I am adept at working with backend languages and applying Object-Oriented Programming principles. My skill set extends to debugging issues, creating comprehensive functionality, and enhancing front-end features. My drive for growth and innovation fuels my passion for creating exceptional web experiences.
+I am a Full-Stack Developer, focused on delivering intuitive and user-friendly websites. With over 2 years of professional experience, I have worked on a diverse range of projects involving both front-end and full-stack development. My expertise includes implementing interfaces designed by UI/UX designers, building functionality of varying scale and complexity, and enhancing existing systems. Skilled in debugging and optimizing code, I am adept at tackling complex challenges and delivering high-quality results for every project.
 
 - 🌍  I'm based in Latvia
 - 🔭 I'm currently learning Web Development by Self
