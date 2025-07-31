@@ -1,15 +1,19 @@
 <h1 align="center">Hi, I'm Arthur Ilyashenko <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h2 align="center">Junior Full-Stack Developer</h2>
+<h2 align="center">Full-Stack Engineer</h2>
 
 <br>
 
-# <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About me
+# About me
 
 <div>
 <img align="right" top="500" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-I am a Full-Stack Developer, focused on delivering intuitive and user-friendly websites. With over 2 years of professional experience, I have worked on a diverse range of projects involving both front-end and full-stack development. My expertise includes implementing interfaces designed by UI/UX designers, building functionality of varying scale and complexity, and enhancing existing systems. Skilled in debugging and optimizing code, I am adept at tackling complex challenges and delivering high-quality results for every project.
+Full-Stack Engineer with 3+ years of experience, specializing in .NET, React, and cloud-based solutions, I bridge the gap between complex backend logic and seamless user experiences. I've optimized performance, slashed code complexity by 40-50%, and accelerated page loads by 2x - translating technical wins into tangible business impact. Whether refactoring legacy systems or building AI-driven prototypes, I thrive on solving hard problems with clean, scalable solutions. 
+
+My strength lies in delivering measurable results: I've cut API calls by 50%, reduced algorithm iterations from millions to thousands, and deployed unit tests that slashed production bugs by 70%. I've automated financial workflows, saving 3+ hours weekly for teams, while my UI upgrades boosted engagement for major e-commerce and media platforms. I adapt fast - mastering new frameworks and AI integrations - but never compromise on code quality or user-centric design. 
+
+I'm passionate about building high-performance applications, implementing data-driven optimizations, and sharing knowledge with development teams. My approach combines technical excellence with practical business understanding to deliver solutions that drive real impact.
 
 - 🌍  I'm based in Latvia
 - 🔭 I'm currently learning Web Development by Self
